@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //this is android push test
         //this pull test
+        //this is android pull test
     }
 }
